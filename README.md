@@ -14,4 +14,7 @@ const client = Deno.createHttpClient({
 
 On Linux:
 
-TODO
+```
+➜ deno run --allow-read --allow-write main.ts
+HttpClient {}
+```
