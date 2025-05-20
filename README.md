@@ -1,4 +1,4 @@
-Run `main.ts` with `deno run --allow-read --allow-write main.ts`, we get the different errors in macOS and Linux.
+Run `main.ts` with `deno run --allow-read --allow-write main.ts`, it runs fine in Linux while it errors out in macOS.
 
 On macOS:
 
