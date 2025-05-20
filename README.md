@@ -18,3 +18,11 @@ On Linux:
 ➜ deno run --allow-read --allow-write main.ts
 HttpClient {}
 ```
+
+Deno version used:
+
+```
+deno 2.3.3 (stable, release, x86_64-unknown-linux-gnu)
+v8 13.7.152.6-rusty
+typescript 5.8.3
+```
